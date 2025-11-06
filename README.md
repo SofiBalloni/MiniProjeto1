@@ -7,9 +7,10 @@ Os dados são salvos em **CSV** e **JSON** dentro da pasta `data`.
 
 ## Como usar
 
-1️⃣ Clone o repositório:
+Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repo.git
 cd nome-do-repo
 ```
+
